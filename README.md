@@ -11,6 +11,9 @@ This simple Python script calculates the weekly earnings of a teacher based on t
 - **Formatted Output**: The calculated salary is displayed in a user-friendly format with two decimal places.
 - **Exit Option**: The user can exit the program at any time by typing `end` during any input prompt.
 
+## Prerequisites
+- Python 3.x
+
 ## How to Use
 
 1. **Run the Script**: Start the script in a Python environment.
@@ -26,3 +29,6 @@ Hello teacher!
 How many hours did you work this week? (Type end to exit) 20
 How many children are in your class? (Type end to exit) 15
 You earned $ 300.00 this week
+
+## Contributing
+Feel free to submit a pull request or open an issue if you find any bugs or have suggestions for improvements.
